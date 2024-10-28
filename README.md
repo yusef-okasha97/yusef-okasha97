@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @yusef-okasha97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi there! 👋 I'm Youssef Okasha
+🔧 DevOps Engineer | 🐳 Docker | ☸️ Kubernetes | ☁️ AWS | 📦 Terraform | 🤖 Ansible | 🔄 CI/CD | 🛠 Jenkins | 📈 Prometheus | 📊 Grafana
 
-<!---
-yusef-okasha97/yusef-okasha97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- About Me🚀
+  I'm a passionate DevOps engineer with a knack for automating processes, optimizing infrastructure, and enabling seamless CI/CD pipelines. I love working with cloud 
+  technologies, container orchestration, and monitoring solutions to ensure scalable, reliable, and efficient systems. I’m constantly exploring new tools and best practices in 
+  the DevOps space to stay up-to-date and improve the developer experience.
+
+- 📫Let's Connect!
+    LinkedIn:https://www.linkedin.com/in/yusef-okasha-b839531b4
+    Email:yusef.okasha97@gmail.com
+- 🔍 Skills & Technologies
+
+ Containerization & Orchestration: Docker, Kubernetes
+ Infrastructure as Code (IaC): Terraform, Ansible
+ Cloud Platforms: AWS
+ CI/CD Pipelines: Jenkins, GitHub Actions
+ Monitoring & Alerting: Prometheus, Grafana
+ Scripting: Bash, Python (for automation tasks)
+
 --->
